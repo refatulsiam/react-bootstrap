@@ -1,0 +1,7 @@
+Bootstrap link 
+
+1. use cdn paste index.html
+2. using react Bootstrap
+    2-1. install {npm install react-bootstrap bootstrap} using terminal
+    2-2. import file{import 'bootstrap/dist/css/bootstrap.min.css';} App.jsx file 
+3. using react bootstrap https://react-bootstrap.github.io/components/buttons/ 
